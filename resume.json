@@ -4,7 +4,7 @@
         "workExpList": "工作经历",
         "projectList": "项目经验",
         "skillList": "个人技能",
-        "awardList": "更多信息",
+        "awardList": "竞赛获奖",
         "workList": "个人作品",
         "aboutme": "个人评价"
     },
@@ -23,38 +23,27 @@
     },
     "educationList": [
         {
-            "edu_time": [
-                "2024",
-                "至今"
-            ],
+            "edu_time": ["2024", "至今"],
             "school": "上海中侨职业技术大学",
-            "major": "人工智能",
+            "major": "人工智能（主修：机器学习、深度学习、计算机视觉、自然语言处理、数据结构与算法）",
             "academic_degree": "本科"
         }
     ],
     "awardList": [
         {
-            "award_info": "五一数学建模竞赛 — 二等奖",
-            "award_time": "2025"
-        },
-        {
-            "award_info": "中青杯 — 二等奖",
-            "award_time": "2025"
-        },
-        {
             "award_info": "数维杯数学建模竞赛 — 三等奖",
             "award_time": "2025"
         },
         {
-            "award_info": "数维杯数学建模竞赛 — 优胜奖",
-            "award_time": "2024"
+            "award_info": "中青杯全国大学生数学建模 — 二等奖",
+            "award_time": "2025"
         },
         {
-            "award_info": "工行杯 — 三等奖",
-            "award_time": "2024"
+            "award_info": "五一数学建模竞赛 — 二等奖",
+            "award_time": "2025"
         },
         {
-            "award_info": "全国高职高专院校信息素养大赛 — 优胜奖",
+            "award_info": "工行杯金融科技创新大赛 — 三等奖",
             "award_time": "2024"
         }
     ],
@@ -62,11 +51,8 @@
         {
             "company_name": "上海中侨职业技术大学",
             "department_name": "具身智能实验室 · 终端服务部",
-            "work_time": [
-                "2024",
-                "至今"
-            ],
-            "work_desc": "负责实验室 AI 基础设施运维，管理 4×A10 GPU 服务器集群，部署 Ollama、vLLM、ComfyUI 等大模型推理框架，支撑 LLM+TTS+ASR 多模态服务的模型推理与前端交互全链路交付。整合 Coze Studio、Fay 数字人、DeepSeek 等多工具链搭建端到端 AI 服务栈，覆盖从模型部署到应用交互的全流程。规划并讲授「终端基础 + 现代 Web 全栈」技术培训课程，编写运维文档与最佳实践指南，推动实验室技术知识传承与人才梯队建设。"
+            "work_time": ["2024", "至今"],
+            "work_desc": "• 管理 4×A10 GPU 集群，部署 Ollama / vLLM / ComfyUI 推理框架，支撑 LLM+TTS+ASR 多模态模型推理与前端交互全链路交付\n• 整合 Coze Studio、Fay 数字人、DeepSeek 等工具链，搭建端到端 AI 服务栈\n• 规划并讲授「终端基础 + 现代 Web 全栈」技术培训课程，编写运维文档与最佳实践指南\n• 推动实验室技术知识传承与人才梯队建设"
         }
     ],
     "skillList": [
@@ -92,14 +78,14 @@
             "project_name": "个人 AI Agent 生态系统",
             "project_role": "独立搭建与运维",
             "project_time": "2025 — 至今",
-            "project_desc": "搭建并维护以 Hermes Agent 和 OpenClaw 为核心的 AI 个人助手系统，实现跨平台、多终端的 AI 辅助工作流。",
+            "project_desc": "搭建并维护以 Hermes Agent 和 OpenClaw 为核心的 AI 个人助手系统，实现跨平台、多终端的 AI 辅助工作流，沉淀 100+ Skills 模块。",
             "project_content": "配置 Hermes Agent 智能体框架（cron 任务调度、Skills 模块管理、跨会话记忆系统）；搭建 OpenClaw 个人 AI 平台（多通道对接 CLI/飞书/Telegram）；编写自动化运维脚本实现日常健康检查、工作区清理与记忆维护；沉淀百余个 AI 工具链 Skills 技能模块。"
         },
         {
             "project_name": "产研社技术分享",
             "project_role": "基准部部长",
             "project_time": "2024 — 至今",
-            "project_desc": "组织社员内部培训与技术交流，分享生产实践经验与提效方法论。",
+            "project_desc": "组织社员内部培训 20+ 场，覆盖 AI 工具链、前端开发、效率方法论，推动技术知识传承。",
             "project_content": "组织社员内部培训与技术交流；分享生产实践经验，沉淀提效方法论；对外开展技术讲座与交流活动。"
         },
         {
@@ -113,13 +99,13 @@
             "project_name": "人工智能学习小组",
             "project_role": "主要开发负责人",
             "project_time": "2024 — 至今",
-            "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习工具。",
+            "project_desc": "组织 AI 书籍研读与知识分享，使用 Coze 平台搭建「西瓜书阅读助手」智能体辅助学习。",
             "project_content": "策划并组织人工智能书籍研读会与分享；使用 Coze 平台搭建「西瓜书阅读助手」智能体；组织与参与多项竞赛，推进成员协作与分工。"
         }
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "具备快速学习与落地执行能力，善于将复杂技术问题拆解为可执行步骤并推动落地。在 AI Agent 框架和大模型方向有从理论到实践的完整闭环经验。热爱计算机与 ACGN 文化，相信好的工具能改变工作方式，致力于让 AI Agent 从「能用」变成「好用」。\nMBTI：INTP / INTJ"
+        "aboutme_desc": "具备 AI Agent 框架与大模型部署的完整闭环经验（从 GPU 集群管理到前端应用交付）。擅长将复杂技术问题拆解为可执行方案并推动落地。热爱通过技术写作与开源分享知识。"
     },
     "theme": {
         "color": "#2f5785",
