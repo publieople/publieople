@@ -1,7 +1,7 @@
 # 人民公仆 · Publieople
 
 <p align="center">
-  <img src="https://www.for-people.cn/avatar.jpg" width="96" height="96" alt="Publieople" style="border-radius:50%" />
+  <img src="https://www.for-people.cn/avatar.webp" width="96" height="96" alt="Publieople" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.for-people.cn">个人主页</a> ·
   <a href="https://blog.for-people.cn/">博客</a> ·
-  <a href="https://visiky.github.io/resume?user=publieople">在线简历</a> ·
+  <a href="https://www.for-people.cn/resume/">在线简历</a> ·
   <a href="https://space.bilibili.com/324858924">B站</a> ·
   <a href="mailto:publieople@outlook.com">Email</a>
 </p>
