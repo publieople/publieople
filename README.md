@@ -33,14 +33,13 @@
 
 | 项目 | 一句话 | 技术 |
 | :--- | :--- | :--- |
-| [**awesome-dsh-plugins**](https://github.com/publieople/awesome-dsh-plugins) | 去噪、开放数据的 DSH 插件 / bundle / skill 注册表 → [dsh.works](https://dsh.works/awesome-dsh-plugins/) | JavaScript |
-| [**dsh-plugin-autoupdate**](https://github.com/publieople/dsh-plugin-autoupdate) | 供应链感知的插件自动更新：版本策略交给 pnpm，apply 前自动快照、失败可回滚 | TypeScript |
-| [**dustshot**](https://github.com/publieople/dustshot) | Wayland 原生截图 / 标注 / OCR / 贴图工具，GTK 4 写的 | Python · GTK4 |
 | [**design-museum**](https://github.com/publieople/design-museum) | 前端设计博物馆：30 条中英术语对照，参数可调，一键复制成给 AI 的设计需求 | Next.js |
+| [**dsh-plugin-autoupdate**](https://github.com/publieople/dsh-plugin-autoupdate) | 供应链感知的插件自动更新：版本策略交给 pnpm，apply 前自动快照、失败可回滚 | TypeScript |
+| [**pi-date-position**](https://github.com/publieople/pi-date-position) | 今天的日期在 π 的第几位 → [在线站](https://publieople.github.io/pi-date-position/) | Vite · React |
+| [**dustshot**](https://github.com/publieople/dustshot) | Wayland 原生截图 / 标注 / OCR / 贴图工具，GTK 4 写的 | Python · GTK4 |
 | [**lab-terminal-service**](https://github.com/Zhongqiao-Laboratory/lab-terminal-service) | 终端服务部技术知识库：部门介绍、技术模块、项目实践与踩坑记录 | MkDocs |
 | [**BootKeeper**](https://github.com/publieople/BootKeeper) | Windows 开机启动管理，带现代 UI、i18n 与 AI 友好的 MCP 接口 | Rust |
 | [**hermes-config-kit**](https://github.com/publieople/hermes-config-kit) | 我的 AI Agent 数字孪生：完整配置 + 150+ Skills，clone → setup 即可复现 | Python |
-| [**pi-date-position**](https://github.com/publieople/pi-date-position) | 今天的日期在 π 的第几位（纯好玩） → [在线站](https://publieople.github.io/pi-date-position/) | Vite · React |
 
 > 更多项目见 [Repositories](https://github.com/publieople?tab=repositories) · 本站源码 [homepage](https://github.com/publieople/homepage)
 
